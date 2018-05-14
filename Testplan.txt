@@ -1,0 +1,19 @@
+Password Parameters Script
+
+The passwords that are chosen in the electronic accounts must have certain parameters for example (Number of characters, Type of characters, Size of characters).
+
+
+Create a script that allows us to verify that the parameters of the passwords are met and that it can be modified in the case of each parameter.
+
+I will be using the latest version of Google Chrome.
+
+This test is considered approved:
+1.- If the script can verify that the parameters of the passwords are met.
+2.- That the parameters can be modified without the script losing functionality.
+
+Deadline:
+Test plan: May 9 2018
+Script: May 23 2018
+
+
+
