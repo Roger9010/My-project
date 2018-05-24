@@ -1,0 +1,7 @@
+Objetivos para el lunes 8 de junio ¨Growing up meeting¨:
+
+Practicar el comando ¨rebase¨ en git. 
+Revisar diversos ejemplos de testplans.
+*Crear mi ambiente en el sistema de linux y hacer completamente funcional mi script.
+*Crear un nuevo script junto con un test plan. 
+
